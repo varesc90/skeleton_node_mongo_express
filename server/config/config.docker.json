@@ -1,0 +1,16 @@
+{
+  "test":{
+    "PORT":3001,
+    "MONGODBURI":"mongodb://db/TodoAppTest",
+    "JWT_SECRET":"*a$s3E!o9mAUgWJR7ebU75"
+  },
+  "development":{
+    "PORT":3001,
+    "MONGODBURI":"mongodb://db/TodoAppTest",
+    "JWT_SECRET":"7wIRsaotJ4IX^rvOo%!7U5"
+  }
+
+
+
+}
+
